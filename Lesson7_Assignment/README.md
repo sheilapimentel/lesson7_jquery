@@ -4,20 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 29, 2017
 
 ### Student Name:  
-(First and Last Name)
+Sheila Pimentel
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The lesson 7 assignment is to build a recipe display application that displays elements with a recipe's ingredients and instructions.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://sheilapimentel.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. jQuery is a commonly used library that enables developers to implement common JavaScript tasks with minimal code.
+2. jQuery should run only when the DOM is ready.
+3. jQuery traversing is used to find HTML elements based on their relation to other elements.
